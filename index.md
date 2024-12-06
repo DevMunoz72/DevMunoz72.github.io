@@ -2,6 +2,7 @@
 # Devin Munoz's Portfolio
 
 I am a business major at CSUF with a minor in computer science and I should be graduating in 2026.
+https://github.com/DevMunoz72
 
 ## Favorite CPSC 120L Labs
 
