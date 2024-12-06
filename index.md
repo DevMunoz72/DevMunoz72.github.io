@@ -11,7 +11,7 @@ I am a business major at CSUF with a minor in computer science and I should be g
 
 * Lab 6, Part 2 
 
-    I enjoyed working on this lab because I am a fan of blackjack and to work on a lab that would calculate a player's hand in blackjack was really fun. Once again the program had us using if statements which I enjoyed. I also liked learning about the using and (&&) as well as or (||) in this assignment. It was brief for this lab but it was a good way of introducing it to us.  
+    I enjoyed working on this lab because I am a fan of blackjack and to work on a lab that would calculate a player's hand in blackjack was really fun. Once again the program had us using if statements which I enjoyed. I also liked learning about using the AND operator as well as OR operators in this assignment. It was brief for this lab but it was a good way of introducing it to us.  
 
 * Lab 5, Part 1 
 
